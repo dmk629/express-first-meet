@@ -1,0 +1,15 @@
+# 依赖模块
+/node_modules
+
+# 编辑器
+/.vscode
+
+# NPM
+/npm-debug.log
+/pnpm-lock.yaml
+
+# 测试数据
+/report
+
+# 编译
+/dist
